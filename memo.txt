@@ -1,0 +1,8 @@
+<a href="/report/reportHome.do" >    <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;REPORT</span></a>
+<a href="/workflow/wfHome.do" >      <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;USER</span></a>
+<a href="/session/sessionHome.do" >  <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;SESSION</span></a>
+<a href="/workflow/wfHome.do" >      <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;RESOURCE</span></a>
+<a href="/im/imHome.do" >            <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;IM</span></a>
+<a href="/workflow/wfHome.do" >      <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;WORKFLOW</span></a>
+<a href="/workflow/wfHome.do" >      <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;AUDIT</span></a>
+<a href="/workflow/wfHome.do" >      <span><img src='/img/menu_top/report3.png' style='float:left;width:17px;border:0px;'/>&nbsp;SETTING</span></a>
